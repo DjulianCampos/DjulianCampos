@@ -27,3 +27,8 @@
   <img href="https://discord.gg/Wy67jusptd" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   <img href="https://instagram.com/dejulinc" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
+
+## 🎡 Commits
+<div>
+  ![Snake animation](https://github.com/DjulianCampos/DjulianCampos/blob/output/github-contribution-grid-snake.svg)
+</div>
